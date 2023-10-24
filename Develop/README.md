@@ -2,11 +2,11 @@
 
 
   # ProfessionalReadmeGenerator9,
-  http://github.com/ArtVargas/ProfessionalReadmeGenerator9,
+  http://github.com/undefined/ProfessionalReadmeGenerator9,
 
   ## Description 
 
-  Create a command-line application that dynamically generates a professional README.md file from a user's input using the inquirer package,
+  Create a command-line application that dynamically generates a professional README.md file from a user's input using the inquirer package.,
   #Table of Contents
   *[Installation](#installation)
   *[Usage](#usage)
