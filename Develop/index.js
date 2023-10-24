@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-const fs= required ("fs");
+const fs= require ("fs");
 const inquirer= require ("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 // TODO: Create an array of questions for user input
@@ -41,7 +41,7 @@ const questions = [
 },
 
 {
-    type: "checkbox",
+
     name: "license",
     message: "Please select an applicable license for this project.",
     options: ["MIT", "Apache2.0", "GNU General Public License v3.0", "BSD2", "BSD3", "Eclipse Public License","None"],
